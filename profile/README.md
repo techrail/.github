@@ -1,6 +1,6 @@
 # Techrail
 
-Techrail is a GitHub organisation, comprising of budding enthusiastic developers who are trying to build some meaning open source software that tried to fill existing gaps in the software world that exist. 
+Techrail is a GitHub organisation, comprising of budding enthusiastic developers who are trying to build some meaningful open source software to fill gaps in the software world.
 
 The two of the most active, fast-progressing and ready-to-use projects are: 
 
